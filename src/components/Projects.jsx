@@ -30,7 +30,7 @@ function Projects() {
       title: "TaskFlow – Realtime to-do list with AI assistant",
       description: "A real-time task management application integrated with an AI assistant to streamline productivity, automate task prioritization, and provide smart recommendations.",
       technologies: ["React", "JavaScript", "Node.js", "Express.js", "PostgresSQL", "Gemini AI"],
-      link: "https://taskflow-a-to-do-list-be.onrender.com",
+      link: "task-flow-frontend-lovat-seven.vercel.app",
       github: "#",
       gradient: "from-red-600 to-purple-600"
     }
